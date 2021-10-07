@@ -1,1 +1,1 @@
-The Bytespace Browser is made with the Visual Studio IE renderer, and uses browser emulation for mroe features, this isn't supported by a lot of websites and probably shouldn't be used for business purposes, but if you'd like to reuse some of the code, try to use it for a challenge or video, that is fine.
+KnowSharp is a Chromium based browser Visual Studio and CefSharp. It has a few features such as user agent switcher, and more specific features.
